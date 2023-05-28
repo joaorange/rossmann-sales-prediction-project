@@ -4,8 +4,7 @@
 
 This project is fictitious, and seeks to extract insights and propose data-based business solutions for a chain of pharmacies. The objectives of this project were to perform exploratory data analysis, develop an accurate sales forecast model for the pharmacy in the next six months, and create a telegram bot that can be accessed by the CEO or any other interested party.
 
-
-mlit.io/badges/streamlit_badge_black_white.svg)</a>.
+Data can be found at <a href="https://www.kaggle.com/c/rossmann-store-sales">Kaggle</a>.
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
