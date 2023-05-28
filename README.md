@@ -2,7 +2,7 @@
 
 ![144940356-a00abf79-b51b-47ce-b458-c706e326fdb1](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/310c6e66-fe9d-4d92-b846-dc58ce65f711)
 
-This project is fictitious, and seeks to extract insights and propose data-based business solutions for a chain of pharmacies. The objectives of this project were to perform exploratory data analysis, develop an accurate sales forecast model for the pharmacy in the next six months, and create a telegram bot that can be accessed by the CEO or any other interested party.
+This project is fictitious, and seeks to extract insights and propose data-based business solutions for a chain of drugstores. The objectives of this project were to perform exploratory data analysis, develop an accurate sales forecast model for the stores in the next six months, and create a telegram bot that can be accessed by the CEO or any other interested party to see the predictions.
 
 Data can be found at <a href="https://www.kaggle.com/c/rossmann-store-sales">Kaggle</a>.
 
