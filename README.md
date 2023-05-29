@@ -96,3 +96,8 @@ The resuts after the cross validation were the following:
 ![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/380a3699-6261-4346-a12a-dd721a898e65)
 
 MAE = mean absolute error; MAPE = mean absolut percentage error; RSME = root mean squared error.
+
+The XGBoost Regressor after fine tuning:
+
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/bcd18cab-0e64-4625-b9cc-b91bcc5a2543)
+
