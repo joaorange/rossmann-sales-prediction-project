@@ -66,7 +66,10 @@ The following assumptions were considered:
 
 # 5. Top 4 Data Insights
 
-![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/0f82b5ed-5925-4551-8249-326f1b656c58)
+1. There are a negative correlation, on average, between sales and the length of time that there's competition.
+
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/24af8131-256d-4a97-b7af-a8c98f2dfd47)
+
 
 
 # 6. Próximos Passos
