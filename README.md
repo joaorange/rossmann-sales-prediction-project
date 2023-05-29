@@ -71,10 +71,10 @@ The following assumptions were considered:
 ![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/24af8131-256d-4a97-b7af-a8c98f2dfd47)
 
 2. Stores with more consecutive promotions sell less than those with only the original promotion.
-![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/0ecc77a2-adad-4919-b299-02c5a1d92b60)
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/f7b5ef6c-7c33-48c4-bd26-3ec1b0b1e62f)
 
 3. Stores sell less in the second half of year.
-![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/481283b3-d4e5-4be0-ba7a-5e3bd0d92a0e)
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/fb46746d-b054-41a5-b69b-ad373431b441)
 
 4. There is no correlation between the number of sales and the distance from competitors.
 ![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/8050028b-81e0-416e-9d26-6cc81137de24)
