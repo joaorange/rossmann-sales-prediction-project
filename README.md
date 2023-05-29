@@ -93,7 +93,7 @@ The following machine learning models were used:
 
 The resuts after the cross validation were the following:
 
-![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/380a3699-6261-4346-a12a-dd721a898e65)
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/ec228e7e-6cd8-4e4f-941e-ccde1a7cc910)
 
 MAE = mean absolute error; MAPE = mean absolut percentage error; RSME = root mean squared error.
 
