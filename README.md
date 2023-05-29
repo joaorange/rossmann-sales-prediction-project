@@ -82,7 +82,17 @@ The following assumptions were considered:
 ![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/8050028b-81e0-416e-9d26-6cc81137de24)
 
 
-# 6. Próximos Passos
+# 6. Machile Learning Model
 
-* Tornar o dashboard mais informativo e entendível;
-* Adicionar uma forma de visualizar o lucro potencial de um determinado imóvel no dashboard.
+The following machine learning models were used:
+
+* Random Forest Regressor;
+* Linear Regression;
+* Regularized Linear Regression;
+* XGBoost Regressor.
+
+The resuts after the cross validation were the following:
+
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/380a3699-6261-4346-a12a-dd721a898e65)
+
+MAE = mean absolute error; MAPE = mean absolut percentage error; RSME = root mean squared error.
