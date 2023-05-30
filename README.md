@@ -112,4 +112,4 @@ Actual sales and prediction sales:
 
 # 7. Telegram Bot
 
-The bot can be accessed <a href="https://t.me/rossmann23bot">Here</a>.
+The bot can be accessed <a href="https://t.me/rossmann23bot">here</a>.
