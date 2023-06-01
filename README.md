@@ -114,5 +114,6 @@ Actual sales and prediction sales:
 
 The bot can be accessed <a href="https://t.me/rossmann23_bot">here</a>.
 
-![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/136683cd-a056-4e28-a12c-4af1678e68fd)
+![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/40625099-b104-40ef-841c-5edec1b0498c)
+
 
