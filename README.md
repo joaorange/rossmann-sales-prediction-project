@@ -117,3 +117,12 @@ The bot can be accessed <a href="https://t.me/rossmann23_bot">here</a>.
 ![image](https://github.com/joaorange/rossmann-sales-prediction-project/assets/86979717/40625099-b104-40ef-841c-5edec1b0498c)
 
 
+# 8. Conclusion
+
+The objective of this project was to develop a prediction model for Rossmann's sales. Through model validation and the telegram bot, the model was developed and applied in a way that its results could be communicated effectively.
+
+# 9. Next Steps
+
+* Test other models to see if the error indicators can be reduced;
+* Look for demographic or economic sources of data on where stores are located and see if this can improve the effectiveness of the models;
+* Improve communications in telegram bot.
