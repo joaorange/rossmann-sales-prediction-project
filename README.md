@@ -24,31 +24,26 @@ The following assumptions were considered:
 
 * The data available is only from 2013-01-01 to 2015-07-31;
 
-* The data set variables, and their respective descriptions, are as follows:
+* The data set original variables, and their respective descriptions, are as follows:
 
 | Variável | Descrição |
 | ------------- | :-------------: |
-| id  | Identificação única de cada imóvel  |
-| date | Data que o imóvel foi vendido |
-| price  | Preço de venda de cada imóvel |
-| bedrooms  | Número de quartos |
-| bathrooms  | Número de banheiros  |
-| sqft_living  | Medida, em pés quadrados, do espaço interior dos apartamentos |
-| sqft_lot  | Medida, em pés quadrados, de todo o espaço terrestre do imóvel |
-| floors  | Número de andares  |
-| waterfront  | "1" se possui vista para a água e "0" se não  |
-| view  | Índice que quantifica, de 0 a 4, o quão boa é a vista da propriedade |
-| condition  | Índice que quantifica, de 1 a 5, a condição do apartamento  |
-| grade  | Um índice que quantifica, de 1 a 13, o nivel da construção e do design do edifício. 1-3 = baixo, 7 = médio e 11-13 = alto
-| sqft_above  | Medida, em pés quadrados, do espaço interior acima do solo  |
-| sqft_basement  | Medida, em pés quadrados, do espaço interior abaixo do solo |
-| yr_built  | Ano que o imóvel foi construído  |
-| yr_renovated  | Ano em que a casa foi renovada pela última vez  |
-| zipcode  | Código ZIP, ou CEP, do imóvel  |
-| lat  | Latitude |
-| long  | Longitude  |
-| sqft_living15  | Medida, em pés quadrado, do espaço interno de habitação dos 15 imóveis vizinhos mais próximos |
-| sqft_lot15 | Medida, em pés quadrado, do espaço terrestre dos 15 imóveis vizinhos mais próximos |
+| store | unique id for every store |
+| date | date when the sale was made |
+| sales | volume of products sold in one day |
+| customers | number of customers |
+| open  | whether the store was open (1) or closed (0)  |
+| promo | whether the store was participating on a promotion (1) or not (0) |
+| sate_holiday | whether it was a state holiday (a=public holiday, b=easter holiday, c=christmas) or not (0) |
+| store_type  | designates the store model as a, b, c or d  |
+| assortment | indicates the store assorment as: a=basic, b=extra, c=extended  |
+| competition_distance | distance in meters to the nearest competitor store |
+| competition_open_since_month  | the approximate month competitor was opened |
+| competition_open_since_year | the approximate year competitor was opened |
+| promo2  | wheter the store was participating on a consecutive promotion (1) or not (0) |
+| promo2_since_week | indicates the calendar week the store was participating in promo2 |
+| promo2_since_year | indicates the year the store was participating in promo2  |
+| promo2_interval  | indicates the intervals in which promo2 started |
 
 # 4. Solution Strategy
 
