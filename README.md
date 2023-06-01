@@ -26,7 +26,7 @@ The following assumptions were considered:
 
 * The data set original variables, and their respective descriptions, are as follows:
 
-| Variável | Descrição |
+| Variable | Definition |
 | ------------- | :-------------: |
 | store | unique id for every store |
 | date | date when the sale was made |
@@ -44,6 +44,23 @@ The following assumptions were considered:
 | promo2_since_week | indicates the calendar week the store was participating in promo2 |
 | promo2_since_year | indicates the year the store was participating in promo2  |
 | promo2_interval  | indicates the intervals in which promo2 started |
+
+* The data set created variables, and their respective descriptions, are as follows:
+
+| Variable | Definition |
+| ------------- | :-------------: |
+| year | year when the sale was made |
+| month | month when the sale was made |
+| day |  day when the sale was made |
+| week_of_year | week of the year that the sale occurred (int type) |
+| year_week | week of the year that the sale occurred (object type, %Y-%W) |
+| week_of_year | week of the year that the sale occurred (int type) |
+| year_week | week of the year that the sale occurred (object type, %Y-%W) |
+| competition_since | join of 'competition_open_since_year' and 'competition_open_since_month' |
+| competition_time_month | calculates the time in months that competitor has been open based on the purchased date |
+| promo_since | join of 'promo2_since_year' and 'promo2_since_week'|
+| promo_time_week | calculates the time in weeks that promotion began based on the purchased date |
+| is_promo | whether the purchase occurred during an active promo2 (1) or not (0) |
 
 # 4. Solution Strategy
 
