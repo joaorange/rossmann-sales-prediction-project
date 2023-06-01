@@ -16,7 +16,7 @@ The data team was requested to develop a sales model prediction that forecast th
 
 # 2. Business Strategy Results
 
-The model developed predicts a gross income of $221.70 MM in the next 6 months for the stores.
+The model developed predicts a gross income of $221.70 MM in the next 6 weeks for the stores.
 Based on the mean absolute percentage error that the model gave to the "train" dataset for the sales of the stores, the best scenario has a gross income of $243.30 MM and a worst scenario of $200.09 MM.
 
 # 3. Business Assumptions
